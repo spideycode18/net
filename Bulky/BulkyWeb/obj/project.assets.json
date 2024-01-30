@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Learn\\net\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+      "projectUniqueName": "D:\\playarounds\\net\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
       "projectName": "BulkyWeb",
-      "projectPath": "G:\\Learn\\net\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+      "projectPath": "D:\\playarounds\\net\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
       "packagesPath": "C:\\Users\\hoang.phan\\.nuget\\packages\\",
-      "outputPath": "G:\\Learn\\net\\Bulky\\BulkyWeb\\obj\\",
+      "outputPath": "D:\\playarounds\\net\\Bulky\\BulkyWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hoang.phan\\AppData\\Roaming\\NuGet\\NuGet.Config",

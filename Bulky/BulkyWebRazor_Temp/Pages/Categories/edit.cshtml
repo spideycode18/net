@@ -1,0 +1,24 @@
+﻿@page
+@model BulkyWebRazor_Temp.Pages.Categories.editModel
+<form method="post">
+    <input asp-for="Category.Id" hidden/>
+    <div class="border p-4">
+        <h2 class="text-primary">Edit a category</h2>
+        @* <div asp-validation-summary="All"></div> *@
+        <div class="form-group">
+            <label asp-for="Category.Name" class="form-label mt-4"></label>
+            <input type="text" class="form-control" asp-for="Category.Name" placeholder="Name" autocomplete="off">
+            <span asp-validation-for="Category.Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Category.DisplayOrder" class="form-label mt-4"></label>
+            <input type="text" class="form-control" asp-for="Category.DisplayOrder" placeholder="Order" autocomplete="off">
+            <span asp-validation-for="Category.DisplayOrder" class="text-danger"></span>
+        </div>
+        <div class="row">
+            <div class="col-12 col-sm-6 mt-4"><button type="submit" class="btn btn-primary w-100 d-block">Edit</button></div>
+            <div class="col-12 col-sm-6 mt-4"><a asp-page="/Categories/index" class="btn btn-outline-secondary w-100 d-block">Back to list</a></div>
+        </div>
+    </div>
+</form>
+

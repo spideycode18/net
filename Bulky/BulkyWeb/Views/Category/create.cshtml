@@ -1,22 +1,27 @@
 ﻿@model Category
-<form action="" method="post">
-    <div class="border p-4">
-        <h2 class="text-primary">Create a category</h2>
-        @* <div asp-validation-summary="All"></div> *@
-        <div class="form-group">
-            <label asp-for="Name" class="form-label mt-4"></label>
-            <input type="text" class="form-control" asp-for="Name" placeholder="Name" autocomplete="off">
-            <span asp-validation-for="Name" class="text-danger"></span>
-        </div>
-        <div class="form-group">
-            <label asp-for="DisplayOrder" class="form-label mt-4"></label>
-            <input type="text" class="form-control" asp-for="DisplayOrder" placeholder="Order" autocomplete="off">
-            <span asp-validation-for="DisplayOrder" class="text-danger"></span>
-        </div>
-        <div class="row">
-            <div class="col-12 col-sm-6 mt-4"><button type="submit" class="btn btn-primary w-100 d-block">Create</button></div>
-            <div class="col-12 col-sm-6 mt-4"><a asp-controller="Category" asp-action="Index" class="btn btn-outline-secondary w-100 d-block">Back to list</a></div>
-        </div>
-    </div>
-</form>
+<div class="card shadow border-0 mt-4">
+    <div class="card-header bg-secondary bg-gradient m-lg-0 py-3 text-white"><h2>Create a category</h2></div>
+  <div class="card-body">
+        <form method="post">
+            <div class="border p-4">
+                @* <div asp-validation-summary="All"></div> *@
+                <div class="form-group">
+                    <label asp-for="Name" class="form-label"></label>
+                    <input type="text" class="form-control" asp-for="Name" placeholder="Name" autocomplete="off">
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DisplayOrder" class="form-label mt-4"></label>
+                    <input type="text" class="form-control" asp-for="DisplayOrder" placeholder="Order" autocomplete="off">
+                    <span asp-validation-for="DisplayOrder" class="text-danger"></span>
+                </div>
+                <div class="row">
+                    <div class="col-12 col-sm-6 mt-4"><button type="submit" class="btn btn-primary w-100 d-block">Create</button></div>
+                    <div class="col-12 col-sm-6 mt-4"><a asp-controller="Category" asp-action="Index" class="btn btn-outline-secondary w-100 d-block">Back to list</a></div>
+                </div>
+            </div>
+        </form>
+  </div>
+</div>
+
 

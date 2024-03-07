@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\playarounds\\net\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+      "projectUniqueName": "G:\\Learn\\net\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
       "projectName": "Bulky.Utility",
-      "projectPath": "D:\\playarounds\\net\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+      "projectPath": "G:\\Learn\\net\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
       "packagesPath": "C:\\Users\\hoang.phan\\.nuget\\packages\\",
-      "outputPath": "D:\\playarounds\\net\\Bulky\\Bulky.Utility\\obj\\",
+      "outputPath": "G:\\Learn\\net\\Bulky\\Bulky.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hoang.phan\\AppData\\Roaming\\NuGet\\NuGet.Config",

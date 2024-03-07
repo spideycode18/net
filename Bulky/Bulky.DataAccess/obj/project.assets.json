@@ -4053,11 +4053,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\playarounds\\net\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+      "projectUniqueName": "G:\\Learn\\net\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
       "projectName": "Bulky.DataAccess",
-      "projectPath": "D:\\playarounds\\net\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+      "projectPath": "G:\\Learn\\net\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
       "packagesPath": "C:\\Users\\hoang.phan\\.nuget\\packages\\",
-      "outputPath": "D:\\playarounds\\net\\Bulky\\Bulky.DataAccess\\obj\\",
+      "outputPath": "G:\\Learn\\net\\Bulky\\Bulky.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hoang.phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4074,11 +4074,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\playarounds\\net\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
-              "projectPath": "D:\\playarounds\\net\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
+            "G:\\Learn\\net\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
+              "projectPath": "G:\\Learn\\net\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
             },
-            "D:\\playarounds\\net\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
-              "projectPath": "D:\\playarounds\\net\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj"
+            "G:\\Learn\\net\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
+              "projectPath": "G:\\Learn\\net\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj"
             }
           }
         }

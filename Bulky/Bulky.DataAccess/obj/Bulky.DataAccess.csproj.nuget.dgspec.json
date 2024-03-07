@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\playarounds\\net\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {}
+    "G:\\Learn\\net\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\playarounds\\net\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
+    "G:\\Learn\\net\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\playarounds\\net\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+        "projectUniqueName": "G:\\Learn\\net\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
         "projectName": "Bulky.DataAccess",
-        "projectPath": "D:\\playarounds\\net\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+        "projectPath": "G:\\Learn\\net\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
         "packagesPath": "C:\\Users\\hoang.phan\\.nuget\\packages\\",
-        "outputPath": "D:\\playarounds\\net\\Bulky\\Bulky.DataAccess\\obj\\",
+        "outputPath": "G:\\Learn\\net\\Bulky\\Bulky.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hoang.phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\playarounds\\net\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
-                "projectPath": "D:\\playarounds\\net\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
+              "G:\\Learn\\net\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
+                "projectPath": "G:\\Learn\\net\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
               },
-              "D:\\playarounds\\net\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
-                "projectPath": "D:\\playarounds\\net\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj"
+              "G:\\Learn\\net\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
+                "projectPath": "G:\\Learn\\net\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "D:\\playarounds\\net\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
+    "G:\\Learn\\net\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\playarounds\\net\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+        "projectUniqueName": "G:\\Learn\\net\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
         "projectName": "Bulky.Models",
-        "projectPath": "D:\\playarounds\\net\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+        "projectPath": "G:\\Learn\\net\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
         "packagesPath": "C:\\Users\\hoang.phan\\.nuget\\packages\\",
-        "outputPath": "D:\\playarounds\\net\\Bulky\\Bulky.Models\\obj\\",
+        "outputPath": "G:\\Learn\\net\\Bulky\\Bulky.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hoang.phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -137,14 +137,14 @@
         }
       }
     },
-    "D:\\playarounds\\net\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
+    "G:\\Learn\\net\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\playarounds\\net\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+        "projectUniqueName": "G:\\Learn\\net\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
         "projectName": "Bulky.Utility",
-        "projectPath": "D:\\playarounds\\net\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+        "projectPath": "G:\\Learn\\net\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
         "packagesPath": "C:\\Users\\hoang.phan\\.nuget\\packages\\",
-        "outputPath": "D:\\playarounds\\net\\Bulky\\Bulky.Utility\\obj\\",
+        "outputPath": "G:\\Learn\\net\\Bulky\\Bulky.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hoang.phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
